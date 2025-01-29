@@ -1,0 +1,11 @@
+{
+      "name": "Casino Clicker",
+      "version": "1.0",
+      "manifest_version": 2,
+      "description": "The first extension that I made really fun.",
+      "browser_action": {
+       "default_icon": "CasinoLogo.png"
+      },
+      
+      ]
+      }
